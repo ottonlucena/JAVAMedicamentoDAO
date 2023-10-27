@@ -9,8 +9,11 @@ public class Cliente {
         BD.crearTabla();
         //que vamos a guarda? Medicamentos
         Medicamento medicamento=new Medicamento(1,1234,"paracetamol","bayer",200.0,10);
+        Medicamento medicamento1=new Medicamento(2,54321,"ketoprofeno","lor",150.0,15);
         //Quien se encarga de guardar?
         MedicamentoService servicio=new MedicamentoService(new MedicamentoDAOH2());
         servicio.guardarMedicamento(medicamento);
+        servicio.guardarMedicamento(medicamento1);
+
     }
 }

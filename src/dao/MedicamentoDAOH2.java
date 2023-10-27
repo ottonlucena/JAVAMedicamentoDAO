@@ -27,6 +27,7 @@ public class MedicamentoDAOH2 implements iDao<Medicamento>{
             ps.setInt(6,medicamento.getCantidad());
             //Ejecutamos lo que insertamos.
             ps.execute();
+            logger.info("Medicamento guardado");
         }catch (Exception e){
             logger.error(e.getMessage());
         }

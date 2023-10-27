@@ -4,3 +4,11 @@
 [2023-10-27 13:05:31] [ ERROR] [BD:28] No suitable driver found for jdbc:h2~/medicamentosTest
 [2023-10-27 13:09:04] [ INFO ] [BD:22] Creando base de datos.
 [2023-10-27 13:09:05] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
+[2023-10-27 13:35:24] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 13:35:25] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
+[2023-10-27 13:35:25] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
+[2023-10-27 13:37:39] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
+[2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:30] Medicamento guardado
+[2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
+[2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:30] Medicamento guardado
