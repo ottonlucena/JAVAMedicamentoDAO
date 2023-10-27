@@ -1,0 +1,6 @@
+[2023-10-27 13:03:12] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 13:03:12] [ ERROR] [BD:28] No suitable driver found for jdbc:h2~/medicamentosTest
+[2023-10-27 13:05:31] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 13:05:31] [ ERROR] [BD:28] No suitable driver found for jdbc:h2~/medicamentosTest
+[2023-10-27 13:09:04] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 13:09:05] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
