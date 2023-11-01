@@ -12,3 +12,276 @@
 [2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:30] Medicamento guardado
 [2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:15] Iniciando operaciones de guardar.
 [2023-10-27 13:37:40] [ INFO ] [MedicamentoDAOH2:30] Medicamento guardado
+[2023-10-27 15:39:49] [ INFO ] [BD:22] Creando base de datos.
+[2023-10-27 15:39:50] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:39:50] [ ERROR] [MedicamentoDAOH2:38] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 15:39:50] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:39:50] [ ERROR] [MedicamentoDAOH2:38] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 15:41:26] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 15:41:27] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:41:27] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:42:47] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 15:42:48] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:42:48] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:43:08] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 15:43:09] [ INFO ] [BD:28] resultset
+[2023-10-27 15:43:09] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 15:43:09] [ INFO ] [MedicamentoDAOH2:17] Iniciando operaciones de guardar.
+[2023-10-27 16:00:15] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:00:17] [ INFO ] [MedicamentoDAOH2:19] Iniciando operaciones de guardar.
+[2023-10-27 16:00:17] [ ERROR] [MedicamentoDAOH2:40] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:00:17] [ INFO ] [MedicamentoDAOH2:19] Iniciando operaciones de guardar.
+[2023-10-27 16:00:17] [ ERROR] [MedicamentoDAOH2:40] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:00:38] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:00:39] [ INFO ] [MedicamentoDAOH2:19] Iniciando operaciones de guardar.
+[2023-10-27 16:00:39] [ ERROR] [MedicamentoDAOH2:40] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:00:39] [ INFO ] [MedicamentoDAOH2:19] Iniciando operaciones de guardar.
+[2023-10-27 16:00:39] [ ERROR] [MedicamentoDAOH2:40] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:01:44] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:01:45] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:01:45] [ ERROR] [MedicamentoDAOH2:42] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:01:45] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:01:45] [ ERROR] [MedicamentoDAOH2:42] Este metodo no esta permitido para una sentencia preparada; en su lugar use una sentencia regular.
+This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2023-10-27 16:02:30] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:02:31] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:02:31] [ INFO ] [MedicamentoDAOH2:40] Registrados: null
+[2023-10-27 16:02:31] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:02:31] [ INFO ] [MedicamentoDAOH2:40] Registrados: null
+[2023-10-27 16:05:04] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:05:05] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:05:06] [ INFO ] [MedicamentoDAOH2:41] Registrados: model.Medicamento@55b699ef
+[2023-10-27 16:05:06] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:05:06] [ INFO ] [MedicamentoDAOH2:41] Registrados: model.Medicamento@689604d9
+[2023-10-27 16:05:50] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:05:51] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:05:51] [ INFO ] [MedicamentoDAOH2:41] Registrados: paracetamol
+[2023-10-27 16:05:51] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:05:51] [ INFO ] [MedicamentoDAOH2:41] Registrados: ketoprofeno
+[2023-10-27 16:06:34] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:06:35] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:06:36] [ ERROR] [MedicamentoDAOH2:43] Cannot invoke "model.Medicamento.getNombre()" because "this.medicamentoRegistrado" is null
+[2023-10-27 16:06:36] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:06:36] [ ERROR] [MedicamentoDAOH2:43] Cannot invoke "model.Medicamento.getNombre()" because "this.medicamentoRegistrado" is null
+[2023-10-27 16:07:48] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:07:49] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:07:50] [ INFO ] [MedicamentoDAOH2:40] Registrados: paracetamol
+[2023-10-27 16:07:50] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:07:50] [ INFO ] [MedicamentoDAOH2:40] Registrados: ketoprofeno
+[2023-10-27 16:07:50] [ INFO ] [MedicamentoDAOH2:40] Registrados: ketoprofeno
+[2023-10-27 16:08:03] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:08:04] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:08:04] [ INFO ] [MedicamentoDAOH2:40] Registrados: paracetamol
+[2023-10-27 16:08:04] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:08:04] [ INFO ] [MedicamentoDAOH2:40] Registrados: ketoprofeno
+[2023-10-27 16:08:04] [ INFO ] [MedicamentoDAOH2:40] Registrados: ketoprofeno
+[2023-10-27 16:08:53] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:08:54] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:08:55] [ INFO ] [MedicamentoDAOH2:39] Registrados: paracetamol bayer
+[2023-10-27 16:08:55] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:08:55] [ INFO ] [MedicamentoDAOH2:39] Registrados: ketoprofeno lor
+[2023-10-27 16:08:55] [ INFO ] [MedicamentoDAOH2:39] Registrados: ketoprofeno lor
+[2023-10-27 16:11:15] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:11:16] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:11:16] [ INFO ] [MedicamentoDAOH2:39] Registrados: paracetamol bayerparacetamol
+[2023-10-27 16:11:16] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:11:16] [ INFO ] [MedicamentoDAOH2:39] Registrados: ketoprofeno lorparacetamol
+[2023-10-27 16:11:16] [ INFO ] [MedicamentoDAOH2:39] Registrados: ketoprofeno lorketoprofeno
+[2023-10-27 16:12:33] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:12:34] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:12:34] [ INFO ] [MedicamentoDAOH2:39] 1235paracetamol
+[2023-10-27 16:12:34] [ INFO ] [MedicamentoDAOH2:21] Iniciando operaciones de guardar.
+[2023-10-27 16:12:34] [ INFO ] [MedicamentoDAOH2:39] 1235paracetamol
+[2023-10-27 16:12:34] [ INFO ] [MedicamentoDAOH2:39] 54323ketoprofeno
+[2023-10-27 16:13:49] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 16:13:50] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:13:50] [ INFO ] [MedicamentoDAOH2:38] 1235paracetamol
+[2023-10-27 16:13:50] [ INFO ] [MedicamentoDAOH2:20] Iniciando operaciones de guardar.
+[2023-10-27 16:13:50] [ INFO ] [MedicamentoDAOH2:38] 1235paracetamol
+[2023-10-27 16:13:50] [ INFO ] [MedicamentoDAOH2:38] 54323ketoprofeno
+[2023-10-27 17:04:01] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:04:02] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:04:02] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:04:02] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:04:02] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:04:02] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:04:02] [ ERROR] [MedicamentoDAOH2:65] listarError de Sintaxis en sentencia SQL "[*]SELEC FROMT * MEDICAMENTOS"; se esperaba "SAVEPOINT, SCRIPT, SHUTDOWN"
+Syntax error in SQL statement "[*]SELEC FROMT * MEDICAMENTOS"; expected "SAVEPOINT, SCRIPT, SHUTDOWN"; SQL statement:
+SELEC FROMT * MEDICAMENTOS [42001-224]
+[2023-10-27 17:06:03] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:06:04] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [model.Medicamento@6f1de4c7, model.Medicamento@459e9125]
+[2023-10-27 17:13:52] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:13:53] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [model.Medicamento@6f1de4c7, model.Medicamento@459e9125]
+[2023-10-27 17:16:17] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:59] 1paracetamol
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:59] 2ketoprofeno
+[2023-10-27 17:16:19] [ INFO ] [MedicamentoDAOH2:63] Medicamentos: [model.Medicamento@5c6648b0, model.Medicamento@6f1de4c7]
+[2023-10-27 17:19:32] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@6f1de4c7 columns: 6 rows: 2 pos: 0
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@6f1de4c7 columns: 6 rows: 2 pos: 1
+[2023-10-27 17:19:33] [ INFO ] [MedicamentoDAOH2:63] Medicamentos: [model.Medicamento@459e9125, model.Medicamento@128d2484]
+[2023-10-27 17:22:47] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@459e9125 columns: 6 rows: 2 pos: 0
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@459e9125 columns: 6 rows: 2 pos: 1
+[2023-10-27 17:22:48] [ INFO ] [MedicamentoDAOH2:63] Medicamentos: [model.Medicamento@128d2484, model.Medicamento@7cc0cdad]
+[2023-10-27 17:27:34] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@6f1de4c7 columns: 6 rows: 2 pos: 0
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:59] rs5: org.h2.result.LocalResult@6f1de4c7 columns: 6 rows: 2 pos: 1
+[2023-10-27 17:27:35] [ INFO ] [MedicamentoDAOH2:63] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}]
+[2023-10-27 18:12:34] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:12:34] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:14:27] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:14:27] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:21:07] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:21:07] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:24:16] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:24:16] [ INFO ] [MedicamentoDAOH2:41] 1235paracetamol
+[2023-10-27 18:24:16] [ INFO ] [MedicamentoDAOH2:41] 54323ketoprofeno
+[2023-10-27 18:24:16] [ INFO ] [MedicamentoDAOH2:41] 1237Otton
+[2023-10-27 18:25:44] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:25:44] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 3, 1234, 'Otton', 'Iquique', 12.00, 2)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 3, 1234, 'Otton', 'Iquique', 12.00, 2)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:26:57] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 18:26:58] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:26:58] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:26:58] [ INFO ] [MedicamentoDAOH2:59] rs3: org.h2.result.LocalResult@368f2016 columns: 6 rows: 2 pos: 0
+[2023-10-27 18:26:58] [ INFO ] [MedicamentoDAOH2:59] rs3: org.h2.result.LocalResult@368f2016 columns: 6 rows: 2 pos: 1
+[2023-10-27 18:26:58] [ INFO ] [MedicamentoDAOH2:63] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}]
+[2023-10-27 18:27:53] [ INFO ] [BD:20] Creando base de datos.
+[2023-10-27 18:27:55] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:27:55] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:27:55] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}]
+[2023-10-27 18:28:37] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:29:27] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:29:27] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 3, 1234, 'Otton', 'Iquique', 12.00, 2)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 3, 1234, 'Otton', 'Iquique', 12.00, 2)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:29:47] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:31:00] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:31:00] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 5, 1234, 'Otton', 'Iquique', 12.00, 2)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 5, 1234, 'Otton', 'Iquique', 12.00, 2)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:31:01] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:32:12] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:32:12] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 5, 1234, 'Otton', 'Iquique', 12.00, 2)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 5, 1234, 'Otton', 'Iquique', 12.00, 2)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:32:12] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:32:52] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:32:52] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 2, 54321, 'ketoprofeno', 'lor', 150.00, 15)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 2, 54321, 'ketoprofeno', 'lor', 150.00, 15)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:32:52] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:39:32] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:39:32] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 2, 54321, 'ketoprofeno', 'lor', 150.00, 15)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 2, 54321, 'ketoprofeno', 'lor', 150.00, 15)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:39:32] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:56:46] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:56:46] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:56:47] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:57:18] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:57:18] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:57:18] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 18:58:29] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 18:58:29] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 1, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 18:58:29] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 19:00:43] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:00:43] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}]
+[2023-10-27 19:01:25] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:01:25] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:02:42] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:02:43] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:02:43] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:04:16] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:04:16] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:04:16] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:04:58] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:04:58] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:04:58] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:05:11] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:05:11] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:05:11] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:06:24] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:06:24] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:06:24] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:06:49] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:06:49] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:06:49] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-27 19:07:10] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-27 19:07:11] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-27 19:07:11] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-28 00:02:39] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-28 00:02:39] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-28 00:02:39] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]
+[2023-10-29 17:22:02] [ INFO ] [MedicamentoDAOH2:22] Iniciando operaciones de guardar.
+[2023-10-29 17:22:02] [ ERROR] [MedicamentoDAOH2:45] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.MEDICAMENTOS(ID) ( /* key:0 */ 6, 1234, 'paracetamol', 'bayer', 200.00, 10)"; SQL statement:
+INSERT INTO MEDICAMENTOS VALUES(?,?,?,?,?,?) [23505-224]
+[2023-10-29 17:22:03] [ INFO ] [MedicamentoDAOH2:62] Medicamentos: [Medicamento{id=1, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=2, codigo=54321, nombre='ketoprofeno', laboratorio='lor', precio=150.0, cantidad=15}, Medicamento{id=3, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=4, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}, Medicamento{id=5, codigo=1234, nombre='Otton', laboratorio='Iquique', precio=12.0, cantidad=2}, Medicamento{id=6, codigo=1234, nombre='paracetamol', laboratorio='bayer', precio=200.0, cantidad=10}]

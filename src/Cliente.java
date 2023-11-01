@@ -14,6 +14,7 @@ public class Cliente {
         MedicamentoService servicio=new MedicamentoService(new MedicamentoDAOH2());
         servicio.guardarMedicamento(medicamento);
         servicio.guardarMedicamento(medicamento1);
+        servicio.listarMedicamentos();
 
     }
 }

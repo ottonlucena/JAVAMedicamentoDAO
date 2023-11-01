@@ -64,4 +64,16 @@ public class Medicamento {
     public void setCantidad(Integer cantidad) {
         this.cantidad = cantidad;
     }
+
+    @Override
+    public String toString() {
+        return "Medicamento{" +
+                "id=" + id +
+                ", codigo=" + codigo +
+                ", nombre='" + nombre + '\'' +
+                ", laboratorio='" + laboratorio + '\'' +
+                ", precio=" + precio +
+                ", cantidad=" + cantidad +
+                '}';
+    }
 }

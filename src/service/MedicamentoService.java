@@ -3,6 +3,8 @@ package service;
 import dao.iDao;
 import model.Medicamento;
 
+import java.util.List;
+
 public class MedicamentoService {
     private iDao<Medicamento> medicamentoiDao;
 
@@ -12,5 +14,9 @@ public class MedicamentoService {
 
     public Medicamento guardarMedicamento(Medicamento medicamento){
         return medicamentoiDao.guardar(medicamento);
+    }
+
+    public List<Medicamento> listarMedicamentos(){
+        return medicamentoiDao.listar();
     }
 }

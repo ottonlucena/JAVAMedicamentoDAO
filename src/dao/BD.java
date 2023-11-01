@@ -1,11 +1,9 @@
 package dao;
 
 import org.apache.log4j.Logger;
+import service.MedicamentoService;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class BD {
     private static final Logger logger=Logger.getLogger(BD.class);
@@ -23,7 +21,6 @@ public class BD {
             connection=getConnection();
             Statement statement=connection.createStatement();
             statement.execute(SQL_DROP_TABLE);
-
         }catch (Exception e){
             logger.error(e.getMessage());
         }finally {
